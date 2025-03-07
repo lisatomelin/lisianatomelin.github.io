@@ -64,13 +64,17 @@ body {
 .cabecalho {
   padding: 2% 0% 0% 15%;
   height: max-content;
+  
 }
 .cabecalho__menu {
   display: flex;
   gap: 80px;
   background-color: var(--cor-primaria);
 }
-.cabecalho__menu__link {
+.cabecalho__menu__link { 
+  display: flex; 
+  justify-items: right;
+  justify-content: right;
   font-family: var(--fonte-secundaria);
   font-size: 1.5rem;
   font-weight: 600;
