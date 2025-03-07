@@ -119,8 +119,8 @@ body {
 }
 
 .apresentacao__conteudo__sobremim {
-  font-size: 1.5rem;
-  font-family: var(--fonte-secundaria);
+  font-size: 1.0rem;
+  font-family: var(--fonte-terciaria);
   align-items: center;
   text-align: center;
 }
